@@ -1,0 +1,8 @@
+a = 10
+b = 15
+print(a+b)
+
+text_1 = "Hello"
+text_2 = "World"
+print(text_1 + text_2) # Concatenated two texts
+print(text_1, text_2)
